@@ -14,7 +14,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 ```shell
-$ git clone https://github.com/adityaatluri/pyopencl.git
+$ git clone https://github.com/urutu/pyopencl.git
 $ cd pyopencl
 $ python configure.py \
     --cl-inc-dir=/opencl-install-location/include \
@@ -29,7 +29,7 @@ Note for Linux Users
 
 Installing using Python 2
 ```shell
-$ git clone https://github.com/adityaatluri/pyopencl.git
+$ git clone https://github.com/urutu/pyopencl.git
 $ cd pyopencl
 $ python configure.py \
     --cl-inc-dir=/opencl-install-location/include \
@@ -40,7 +40,7 @@ $ sudo make install
 
 Installing using Python 3
 ```shell
-$ git clone https://github.com/adityaatluri/pyopencl.git
+$ git clone https://github.com/urutu/pyopencl.git
 $ cd pyopencl
 $ python3 configure.py \
     --cl-inc-dir=/opencl-install-location/include \
